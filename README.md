@@ -24,4 +24,7 @@
  * [Contributing](#contributing)
  * [Contact](#contact)
     
+## About The Project
+
+<img src="https://user-images.githubusercontent.com/64362564/94585580-1bc29480-0278-11eb-9a0b-c96fbefa26dd.png">
 
