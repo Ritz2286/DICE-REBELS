@@ -28,3 +28,7 @@
 
 <img src="https://user-images.githubusercontent.com/64362564/94585580-1bc29480-0278-11eb-9a0b-c96fbefa26dd.png">
 
+This repository contains a web application - Dice Rebels where multiplayer player plays with certain rules :
+
+### Rules Of The Game
+
